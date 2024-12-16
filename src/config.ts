@@ -52,8 +52,8 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/avatar.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Jonathan Sebastian Marbun',
-  bio: "I'm Jonathan Sebastian Marbun, a passionate and enthusiastic person in the field of Cyber Security especially in Digital Forensics.",
+  name: 'k.eii',
+  bio: "I'm Jonathan S. Marbun, a CTF player in the Digital Forensics field.",
   links: [
     {
       name: 'GitHub',
