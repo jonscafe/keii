@@ -16,7 +16,7 @@ export const siteConfig: SiteConfig = {
   },
   banner: {
     enable: false,
-    src: 'assets/images/demo-banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    src: 'assets/images/banner.png',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: false,         // Display the credit text of the banner image
@@ -51,19 +51,19 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/avatar.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Jonathan Sebastian Marbun',
   bio: "I'm Jonathan Sebastian Marbun, a passionate and enthusiastic person in the field of Cyber Security especially in Digital Forensics.",
   links: [
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/jonscafe',
     },
     {
       name: 'LinkedIn',
       icon: 'fa6-brands:linkedin',
-      url: 'https://www.linkedin.com/jonmarbun/',
+      url: 'https://www.linkedin.com/jomrbn/',
     },
   ],
 }
