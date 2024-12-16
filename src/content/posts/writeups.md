@@ -3,7 +3,7 @@ title: My CTF Writeups
 published: 2024-12-15
 tags: [CTF, Write Up, Blog]
 category: Write Up
-draft: true
+draft: false
 ---
 
 ## ctfs-write-ups
