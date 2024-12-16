@@ -1,9 +1,10 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+Hi there 👋
 
-::github{repo="saicaca/fuwari"}
+I'm Jonathan Sebastian Marbun, a passionate and enthusiastic person in the field of Cyber Security especially in Digital Forensics.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+Currently active playing CTF with [SNI Cybersecurity Team](https://serikatnewbie.me) and pursuing a Bachelor of Applied Computer degree in National Cyber and Crypto Polytechnic.
+
+Sometime I actively doing research related to Digital Forensics and making CTF problems to be solved in some CTF events.
+
+::github{repo="jonscafe/ctfs-write-ups"}
