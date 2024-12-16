@@ -10,17 +10,13 @@ Sometime I actively doing research related to Digital Forensics and making CTF p
 ::github{repo="jonscafe/ctfs-write-ups"}
 
 ## Recorded CTF Participation History
-
 ---
-
 ### 2023
 | Event | Rank | Team | Note |
 |------------------------------|--------------|--------------|--------------|
 | **[HackTheBox University CTF 2023](/HTB_Univ2023)** | Participant | PoltekSSN | - |
 | **[Cyberyolk 2023](/cyberyolk-2023)** | Only REV | Individual | - |
-
 ---
-
 ### 2024
 | Event | Rank | Team | Note |
 |------------------------------|--------------|--------------|--------------|
@@ -50,12 +46,9 @@ Sometime I actively doing research related to Digital Forensics and making CTF p
 | **[Interfest 2024 Quals - Telkom University](/interfest-2024-quals)** | Rank 6 | SNI (FLAKEITO) | - |
 | **[Interfest 2024 Final - Telkom University](/interfest-2024-final)** | Rank 5 | SNI (FLAKEITO) | except Pwn |
 | **[HackTheBox University CTF 2024](/hackthebox-uni-2024)** | Participant | PoltekSSN | 3/4 Forensic |
-
 ---
-
 ### 2025
 | Event | Rank | Team | Note |
 |------------------------------|--------------|--------------|--------------|
 | TBD | TBD | TBD | TBD |
-
 ---
