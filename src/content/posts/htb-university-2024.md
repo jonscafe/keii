@@ -1,6 +1,6 @@
 ---
 title: HackTheBox University CTF 2024 - Forensic Writeups
-published: 2024-12-16
+published: 2024-12-17
 description: '3/4 Forensic Write Up on  HackTheBox University CTF 2024'
 image: ''
 tags: [Write Up, CTF, Forensic]
