@@ -13,7 +13,7 @@ Sometime I actively doing research related to Digital Forensics and making CTF p
 ---
 ### 2024
 | Event | Achievement | Organizer |
-|------------------------------|--------------|
+|------------------------------|--------------|--------------|
 | **FindIT 2024** | Finalist | Gadjah Mada University |
 | **DSTA CDDC Brainhack 2024** | Finalist | Defense Science and Technology Agency, Singapore |
 | **Hacktheon Sejong 2024** | Honorable Mention III | Sejong City Hall |
