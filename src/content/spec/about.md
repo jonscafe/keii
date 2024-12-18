@@ -10,7 +10,6 @@ Sometime I actively doing research related to Digital Forensics and making CTF p
 ::github{repo="jonscafe/ctfs-write-ups"}
 
 ## Achievements
----
 | Event | Achievement | Organizer |
 |------------------------------|--------------|--------------|
 | **FindIT CTF - 2024** | Finalist | Gadjah Mada University |
