@@ -31,7 +31,7 @@ Sometime I actively doing research related to Digital Forensics and making CTF p
 ## Experiences
 | Event | Organizer | Experience |
 |------------------------------|--------------|--------------|
-| Wreck IT 5.0 | National Cyber and Crypto Polytechnic | Challenge Author, Head of Organizer |
-| Cyber Ops Clash 2024 | Meta4Sec & Cyber Specters | Challenge Author |
-| IT-Del CTF 2024 | Del Institute of Technology | Challenge Author, Infrastructure Team |
-| SNI CTF 2024 | SNI Cybersecurity Team | Challenge Author, Head of Organizer |
+| **Wreck IT 5.0** | National Cyber and Crypto Polytechnic | Challenge Author, Head of Organizer |
+| **Cyber Ops Clash 2024** | Meta4Sec & Cyber Specters | Challenge Author |
+| **IT-Del CTF 2024** | Del Institute of Technology | Challenge Author, Infrastructure Team |
+| **SNI CTF 2024** | SNI Cybersecurity Team | Challenge Author, Head of Organizer |
