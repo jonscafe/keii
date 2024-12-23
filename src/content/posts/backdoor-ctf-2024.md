@@ -1,3 +1,13 @@
+---
+title: BackdoorCTF 2024 - Forensic Writeups
+published: 2024-12-23
+description: '3/5 Write Up on BackdoorCTF 2024 - InfosecIITR'
+image: ''
+tags: [Write Up, CTF, Forensic]
+category: 'Write Up'
+draft: false 
+---
+
 ## BackdoorCTF 2024 - InfosecIITR - Forensic
 
 Collaboration of daffainfo - k.eii - k3ng
