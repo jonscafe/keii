@@ -7,17 +7,19 @@ tags: [Write Up, CTF, Forensic]
 category: 'Write Up'
 draft: false 
 ---
-
 ![image](https://hackmd.io/_uploads/SkmZq8YIyl.png)
 
 noticed the packet is transmitted using X11 Protocol
 
 https://www.x.org/releases/X11R7.7/doc/xproto/x11protocol.html
+
 we can use X11 dissector in wireshark
 
 ![image](https://hackmd.io/_uploads/B1kw5LtIJx.png)
 
 in this protocol there is an extension named PutImage used to visualize an image file
+
+![image](https://hackmd.io/_uploads/rJTNqEqLyl.png)
 
 https://tronche.com/gui/x/xlib/utilities/manipulating-images.html
 
@@ -118,7 +120,7 @@ But the results are still in a random order, so we need to sort them
 
 when analyzing the raw data noticed the pcap contains so many png that didnt detected with the x11 dissector.
 
-so i got an assumption (also based on my consultation to the author hahaha) that the file names is the order so i will create a script to reorder it based on what i've found.
+so i got an assumption that the file names is the order so i will create a script to reorder it based on what i've found.
 
 ```
 import os
