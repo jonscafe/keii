@@ -1,6 +1,6 @@
 ---
 title: NETCOMP 3.0 - X11 Protocol
-published: 2024-12-23
+published: 2025-01-07
 description: 'X11 Protocol Challenge on NETCOMP 3.0 Qualification'
 image: ''
 tags: [Write Up, CTF, Forensic]
