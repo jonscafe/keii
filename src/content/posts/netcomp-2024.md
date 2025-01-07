@@ -120,7 +120,7 @@ But the results are still in a random order, so we need to sort them
 
 when analyzing the raw data noticed the pcap contains so many png that didnt detected with the x11 dissector.
 
-so i got an assumption that the file names is the order so i will create a script to reorder it based on what i've found.
+so i got an assumption that the file names is the order (also after consulting to the author hahaha) so i will create a script to reorder it based on what i've found.
 
 ```
 import os
@@ -158,3 +158,6 @@ print(f"Files have been successfully renamed and saved to '{desFolder}'.")
 ```
 
 ![image](https://hackmd.io/_uploads/H1oePNqIyl.png)
+
+Final flag:
+`Netcomp{742cb56806e9fb74441367d7eab9c258}`
