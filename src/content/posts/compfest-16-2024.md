@@ -2,14 +2,11 @@
 title: COMPFEST 16 CTF 2024 Qual & Final - Forensic Writeups
 published: 2025-01-08
 description: 'All Forensic Write Up on COMPFEST 16 CTF 2024'
-image: 'https://hackmd.io/_uploads/r104F_iLkl.png'
+image: 'https://hackmd.io/_uploads/ryEqnus8ke.png)'
 tags: [Write Up, CTF, Forensic]
 category: 'Write Up'
 draft: false 
 ---
-<div style="text-align: center;">
-    <img src="https://hackmd.io/_uploads/r104F_iLkl.png" alt="image" width="250" />
-</div>
 
 On October 6th, 2024, we played in the final of COMPFEST 16 and were gratefully crowned the champions.
 
