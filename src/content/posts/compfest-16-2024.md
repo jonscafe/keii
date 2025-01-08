@@ -2,7 +2,7 @@
 title: COMPFEST 16 CTF 2024 Qual & Final - Forensic Writeups
 published: 2025-01-08
 description: 'All Forensic Write Up on COMPFEST 16 CTF 2024'
-image: ''
+image: 'https://hackmd.io/_uploads/r104F_iLkl.png'
 tags: [Write Up, CTF, Forensic]
 category: 'Write Up'
 draft: false 
