@@ -7,8 +7,17 @@ tags: [Write Up, CTF, Forensic]
 category: 'Write Up'
 draft: false 
 ---
+<div style="text-align: center;">
+    <img src="https://hackmd.io/_uploads/r104F_iLkl.png" alt="image" width="250" />
+</div>
+
+On October 6th, 2024, we played in the final of COMPFEST 16 and were gratefully crowned the champions.
 
 # Qualification
+Qualification starts at August 31st, 2024. I solved 4/4 Forensic challs.
+
+<img src="https://hackmd.io/_uploads/Hy8n9OjIJe.png)" alt="image" width="250">
+
 ## Industrial Spy 3
 
 ```
@@ -167,6 +176,7 @@ Open using visual truetype then export as font. I use notepad set the font to me
 
 
 # Final
+The final competition was held on October 6th, 2024, at Building A, Faculty of Computer Science, University of Indonesia. I was able to solve all 2/2 Forensic Challenge and were grateful to secure the champion title with my team.
 
 ## Forensic/Investigator
 
