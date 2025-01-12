@@ -1,5 +1,5 @@
 ---
-title: BackdoorCTF 2024 - Forensic Writeups
+title: BackdoorCTF 2024 - Forensic Writeup
 published: 2024-12-23
 description: '3/5 Write Up on BackdoorCTF 2024 - InfoSecIITR'
 image: ''

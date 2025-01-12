@@ -1,5 +1,5 @@
 ---
-title: Cyber Jawara International 2024 - Forensic Writeups
+title: Cyber Jawara International 2024 - Forensic Writeup
 published: 2024-12-16
 description: 'All Forensic Write Up on Cyber Jawara International 2024'
 image: ''

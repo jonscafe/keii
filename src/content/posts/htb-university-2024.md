@@ -1,5 +1,5 @@
 ---
-title: HackTheBox University CTF 2024 - Forensic Writeups
+title: HackTheBox University CTF 2024 - Forensic Writeup
 published: 2024-12-17
 description: '3/4 Forensic Write Up on  HackTheBox University CTF 2024'
 image: ''

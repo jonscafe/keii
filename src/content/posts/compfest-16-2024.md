@@ -1,5 +1,5 @@
 ---
-title: COMPFEST 16 CTF 2024 Qual & Final - Forensic Writeups
+title: COMPFEST 16 CTF 2024 Qual & Final - Forensic Writeup
 published: 2025-01-08
 description: 'All Forensic Write Up on COMPFEST 16 CTF 2024'
 image: ''
