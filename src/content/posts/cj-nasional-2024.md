@@ -1,7 +1,7 @@
 ---
 title: Cyber Jawara National 2024 Qualification - Forensic Writeup
 published: 2025-01-13
-description: 'All Forensic Write Up on Cyber Jawara International 2024'
+description: 'All Forensic Write Up on Cyber Jawara National 2024 Qualification'
 image: ''
 tags: [Write Up, CTF, Forensic, Stegano]
 category: 'Write Up'
