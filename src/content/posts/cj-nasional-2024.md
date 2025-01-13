@@ -5,7 +5,7 @@ description: 'All Forensic Write Up on Cyber Jawara International 2024'
 image: ''
 tags: [Write Up, CTF, Forensic, Stegano]
 category: 'Write Up'
-draft: true 
+draft: false 
 ---
 
 ## Whale
