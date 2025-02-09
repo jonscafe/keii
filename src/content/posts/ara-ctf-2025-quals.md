@@ -32,7 +32,9 @@ png raw data, dumped it!
 
 
 ## Daftar Kerja
-got readme file, ransom notes
+the distribution gave us a disk dump of linux. we just need grep to solve this chall.
+
+first of all, check the user home directory and we got readme file (ransom notes)
 
 ![image](https://hackmd.io/_uploads/B1O7gjBtkl.png)
 
