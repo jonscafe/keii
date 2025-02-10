@@ -33,7 +33,10 @@ Sometime I actively doing research related to Digital Forensics and making CTF p
 |------------------------------|--------------|--------------|
 | **Wreck IT 5.0** | National Cyber and Crypto Polytechnic | Challenge Author, Head of Organizer |
 | **Cyber Specter's Cyber Hunt 2024** | Cyber Specters | Challenge Author |
+| **Sanapati Cyberhunt 2024** | National Cyber and Crypto Polytechnic | Challenge Author, Organizer |
 | **Cyber Ops Clash 2024** | Meta4Sec & Cyber Specters | Challenge Author |
-| **IT-Del CTF 2024** | Del Institute of Technology | Challenge Author, Infrastructure Team |
+| **IT-Del CTF 2024** | Del Institute of Technology | Challenge Author, Infrastructure |
 | **SNI CTF 2024** | SNI Cybersecurity Team | Challenge Author, Head of Organizer |
 | **Cyber Sentrix 2024** | Cyber Specters | Challenge Author |
+| **Sanapati Cyberhunt 2025** | National Cyber and Crypto Polytechnic | Challenge Author, Organizer |
+| **Cyber Jawara National 2024** | CSIRT.id & IdNSA | Final Round Challenge Author |
