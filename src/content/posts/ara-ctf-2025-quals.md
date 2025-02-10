@@ -1,19 +1,20 @@
 ---
 title: ARA 6.0 CTF Qualification - Writeup
 published: 2025-02-10
-description: 'ARA 6.0 Qualification Write Up - Sepuluh November Technology Institute'
+description: 'ARA 6.0 Qualification Write Up - Sepuluh November Institute of Technology'
 image: ''
 tags: [Write Up, CTF, Forensic, Crypto, Misc, Web]
 category: 'Write Up'
 draft: true 
 ---
+# ARA 6.0 Qualification Write Up
 
 my write up, playing with team `tempe bacem ga enak hoekkkkkk` at ARA 6.0 Qualification
 
-# Forensic
+## Forensic
 yey full solv all foren
 
-## Readable
+### Readable
 regular png hex fixing, missing png header and ihdr chunk
 
 ![{A79BEEEA-F1FC-4AC8-B4FF-913B622B3394}](https://hackmd.io/_uploads/rkEmehSKye.png)
@@ -21,7 +22,7 @@ regular png hex fixing, missing png header and ihdr chunk
 ![chall](https://hackmd.io/_uploads/BJZJ1ZLKJe.png)
 
 
-## whatshark
+### whatshark
 syscall traffic, seems to read and write something
 
 ![{DAE699EE-5F4F-4FEC-AA02-16100A0AD0B5}](https://hackmd.io/_uploads/Syzde3rtyg.png)
@@ -31,7 +32,7 @@ png raw data, dumped it!
 ![tes](https://hackmd.io/_uploads/SyNtxnSt1x.png)
 
 
-## Daftar Kerja
+### Daftar Kerja
 the distribution gave us a disk dump of linux. we just need grep to solve this chall.
 
 first of all, check the user home directory and we got readme file (ransom notes)
@@ -222,8 +223,8 @@ for i in ans:
     
 # Congrats! Flag: ARA6{504l_Ini_di8u47_83rD454rK4N_r34l_c453_y4_G35_h3H3}
 ```
-# Web
-## Intuition
+## Web
+### Intuition
 abuse PHP object references to make the input_R, input_G, and input_B values always match expected_R, expected_G, and expected_B (php serialize object)
 ```php
 <?php
@@ -260,7 +261,7 @@ payload:
 ![{B7AD38BD-DEF0-4648-A64A-12CC9ED7F735}](https://hackmd.io/_uploads/H10AnlIKkx.png)
 
 
-## El-Kebanteren
+### El-Kebanteren
 ![{121F1A69-C463-4A09-814C-8917515B08C9}](https://hackmd.io/_uploads/S1YPE3rtyx.png)
 
 command injcetion race condition (?)
@@ -334,8 +335,8 @@ else:
 ```
 `ARA6{Raden_Banter_is_SPEEEEEEEED_SUIIIIIIIIII} `
 
-# AI?
-## ilynaga
+## AI?
+### ilynaga
 GA TAU, INI CHALL APAAN SIH
 ![{AC51F5BC-5298-45E7-B4EA-11A44E7CD32A}](https://hackmd.io/_uploads/BkHKKkLYke.png)
 
@@ -344,8 +345,8 @@ POKOKNYA INTINYA INI
 
 SSIM_VALUE ITU NILAI DARI GAMBAR MAS-MASNYA, PREDICTED_CLASS POKOKNYA YG PENTING GAMBAR MUKA AI-NYA KEDETECT. ANJRIT 3 JAM GUA OBRAK ABRIK PAKE PAINT
 
-# Crypto
-##  currently in a relationship (nope) 
+## Crypto
+###  currently in a relationship (nope) 
 The encryption scheme produces two ciphertext files (flag1.enc and flag2.enc), each of which is split into fixed-size blocks (192 bytes per block)
 
 the public exponent used is e = 245, and the linear relation parameters a=24a=24 and b=50b=50.
