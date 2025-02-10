@@ -5,7 +5,7 @@ description: 'ARA 6.0 Qualification Write Up - Sepuluh November Institute of Tec
 image: ''
 tags: [Write Up, CTF, Forensic, Crypto, Misc, Web]
 category: 'Write Up'
-draft: true 
+draft: false 
 ---
 # ARA 6.0 Qualification Write Up
 
