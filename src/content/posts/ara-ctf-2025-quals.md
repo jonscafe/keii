@@ -5,15 +5,13 @@ description: 'ARA 6.0 Qualification Write Up - Sepuluh November Institute of Tec
 image: ''
 tags: [Write Up, CTF, Forensic, Crypto, Misc, Web]
 category: 'Write Up'
-draft: true 
+draft: false 
 ---
 # ARA 6.0 Qualification Write Up
 
 my write up, playing with team `tempe bacem ga enak hoekkkkkk` at ARA 6.0 Qualification
 
 ## Forensic
-yey full solv all foren
-
 ### Readable
 regular png hex fixing, missing png header and ihdr chunk
 
