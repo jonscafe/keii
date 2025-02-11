@@ -14,14 +14,14 @@ Sometime I actively doing research related to Digital Forensics and making CTF p
 |------------------------------|--------------|--------------|
 | **FindIT CTF - 2024** | Finalist | Gadjah Mada University |
 | **DSTA CDDC Brainhack - 2024** | Finalist | Defense Science and Technology Agency, Singapore |
-| **Hacktheon Sejong - 2024** | Honorable Mention III | Sejong City Hall |
+| **Hacktheon Sejong - 2024** | Honorable Mention III | Sejong City Hall, South Korea |
 | **Nullcon HackIM Berlin CTF - 2024** | 3rd Place | NullCon |
 | **Space Heroes CTF - 2024** | 2nd Place | FITSEC |
 | **KMIPN VI Cyber Security Category - 2024** | 1st Place | BAKORMA |
 | **Technofair 11 CTF - 2024** | Finalist | Gunadarma University |
 | **IT Today HackToday CTF - 2024** | Finalist | IPB University |
 | **Gemastik XVII Cyber Security Category - 2024** | Finalist | Puspresnas |
-| **Blackhat MEA CTF - 2024** | Finalist | Blackhat MEA |
+| **Blackhat MEA CTF - 2024** | Finalist | Blackhat MEA, Saudi Arabia |
 | **Informatics Fest CTF - 2024** | 3rd Place | Padjajaran University |
 | **COMPFEST 16 CTF - 2024** | 1st Place | University of Indonesia |
 | **Cyber Jawara International - 2024** | 1st Place | CSIRT.id & IdNSA |
