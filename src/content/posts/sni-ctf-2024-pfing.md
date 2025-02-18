@@ -1,5 +1,5 @@
 ---
-title: Finding malicious application from prefetch | SNI CTF 2024 - pf-ing
+title: Finding Malicious Application with Prefetch | SNI CTF 2024 - pf-ing
 published: 2025-02-05
 description: 'Write Up of pf-ing from SNI CTF 2024'
 image: ''
