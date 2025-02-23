@@ -27,6 +27,7 @@ Sometime I actively doing research related to Digital Forensics and making CTF p
 | **Cyber Jawara International - 2024** | 1st Place | CSIRT.id & IdNSA |
 | **Interfest CTF - 2024** | Finalist | Telkom University |
 | **Backdoor CTF - 2024** | 1st Place | InfoSecIITR |
+| **ARA 6.0 CTF - 2025** | Finalist | Sepuluh Nopember Institute Technology |
 ---
 ## Experiences
 | Event | Organizer | Experience |
