@@ -40,4 +40,4 @@ Sometime I actively doing research related to Digital Forensics and making CTF p
 | **SNI CTF 2024** | SNI Cybersecurity Team | Challenge Author, Head of Organizer |
 | **Cyber Sentrix 2024** | Cyber Specters | Challenge Author |
 | **Sanapati Cyberhunt 2025** | National Cyber and Crypto Polytechnic | Challenge Author, Organizer |
-| **Cyber Jawara National 2024** | CSIRT.id & IdNSA | Final Round Challenge Author |
+| **Cyber Jawara National 2024** | CSIRT.id & IdNSA | Challenge Author, Final Round |
