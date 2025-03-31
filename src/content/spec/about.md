@@ -28,6 +28,7 @@ Sometime I actively doing research related to Digital Forensics and making CTF p
 | **Interfest CTF - 2024** | Finalist | Telkom University |
 | **Backdoor CTF - 2024** | 1st Place | InfoSecIITR |
 | **ARA 6.0 CTF - 2025** | Finalist | Sepuluh Nopember Institute of Technology |
+| **TAMUctf - 2025** | 1st Place | Texas A&M University |
 ---
 ## Experiences
 | Event | Organizer | Experience |
